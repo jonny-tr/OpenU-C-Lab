@@ -1,0 +1,5 @@
+# ninja log v5
+34	445	7388859503318948	CMakeFiles/myset.dir/set.c.obj	5a1951590ab5bda1
+22	447	7388859503329327	CMakeFiles/myset.dir/parser.c.obj	9be2bf2645e829b0
+9	447	7388859503306587	CMakeFiles/myset.dir/myset.c.obj	e4150dc11fce5f3c
+393	613	7388074748724150	myset.exe	b09335b70f5f3694

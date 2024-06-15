@@ -1,0 +1,4 @@
+C:/Users/yonat/Documents/Personal/CS/systems programming lab/22/cmake-build-debug/CMakeFiles/myset.dir
+C:/Users/yonat/Documents/Personal/CS/systems programming lab/22/cmake-build-debug/CMakeFiles/clean-all.dir
+C:/Users/yonat/Documents/Personal/CS/systems programming lab/22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yonat/Documents/Personal/CS/systems programming lab/22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+#ifndef INC_12_PARTIALSUMS_H
+#define INC_12_PARTIALSUMS_H
+
+#endif /* INC_12_PARTIALSUMS_H */
